@@ -1,0 +1,8 @@
+{
+  "name": "FraudGuard AI",
+  "description": "Behavioral-Aware and Explainable Adaptive Machine Learning Framework for Credit Card Fraud Detection",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
